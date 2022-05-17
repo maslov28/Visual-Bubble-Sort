@@ -1,0 +1,15 @@
+/* html {
+  box-sizing: border-box;
+} */
+
+.column {
+  height: 20px;
+  background-color: red;
+  margin: 5px;
+}
+
+#root {
+  width: 600px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
